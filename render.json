@@ -26,5 +26,13 @@
       { "match": "#FCD900", "replace": "#E16C6C" },
       { "match": "#6D3C1B", "replace": "#1B0707" }
     ]
+  },
+  "Banana-Macchiato": {
+    "dir": "svg",
+    "out": "bitmaps/Banana-Catppuccin-Macchiato",
+    "colors": [
+      { "match": "#FCD900", "replace": "#E5C890" },
+      { "match": "#6D3C1B", "replace": "#51576D" }
+    ]
   }
 }
